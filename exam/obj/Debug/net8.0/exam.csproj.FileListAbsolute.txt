@@ -1,0 +1,14 @@
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\bin\Debug\net8.0\exam.exe
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\bin\Debug\net8.0\exam.deps.json
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\bin\Debug\net8.0\exam.runtimeconfig.json
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\bin\Debug\net8.0\exam.dll
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\bin\Debug\net8.0\exam.pdb
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\obj\Debug\net8.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\obj\Debug\net8.0\exam.AssemblyInfoInputs.cache
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\obj\Debug\net8.0\exam.AssemblyInfo.cs
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\obj\Debug\net8.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\obj\Debug\net8.0\exam.dll
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\obj\Debug\net8.0\refint\exam.dll
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\obj\Debug\net8.0\exam.pdb
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\obj\Debug\net8.0\exam.genruntimeconfig.cache
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\exam\obj\Debug\net8.0\ref\exam.dll

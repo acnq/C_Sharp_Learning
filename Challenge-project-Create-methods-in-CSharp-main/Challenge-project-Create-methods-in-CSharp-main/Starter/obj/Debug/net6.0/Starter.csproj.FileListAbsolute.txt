@@ -1,0 +1,14 @@
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.exe
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.deps.json
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.runtimeconfig.json
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.dll
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.pdb
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.dll
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\refint\Starter.dll
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll

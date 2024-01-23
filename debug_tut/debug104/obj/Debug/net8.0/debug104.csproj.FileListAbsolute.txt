@@ -1,0 +1,14 @@
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\bin\Debug\net8.0\debug104.exe
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\bin\Debug\net8.0\debug104.deps.json
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\bin\Debug\net8.0\debug104.runtimeconfig.json
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\bin\Debug\net8.0\debug104.dll
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\bin\Debug\net8.0\debug104.pdb
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\obj\Debug\net8.0\debug104.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\obj\Debug\net8.0\debug104.AssemblyInfoInputs.cache
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\obj\Debug\net8.0\debug104.AssemblyInfo.cs
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\obj\Debug\net8.0\debug104.csproj.CoreCompileInputs.cache
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\obj\Debug\net8.0\debug104.dll
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\obj\Debug\net8.0\refint\debug104.dll
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\obj\Debug\net8.0\debug104.pdb
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\obj\Debug\net8.0\debug104.genruntimeconfig.cache
+c:\Users\fanyu\OneDrive\桌面\testing\C_sharp\debug_tut\debug104\obj\Debug\net8.0\ref\debug104.dll

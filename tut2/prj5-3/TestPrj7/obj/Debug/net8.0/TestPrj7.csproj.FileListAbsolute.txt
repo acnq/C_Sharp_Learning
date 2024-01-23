@@ -1,0 +1,14 @@
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\bin\Debug\net8.0\TestPrj7.exe
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\bin\Debug\net8.0\TestPrj7.deps.json
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\bin\Debug\net8.0\TestPrj7.runtimeconfig.json
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\bin\Debug\net8.0\TestPrj7.dll
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\bin\Debug\net8.0\TestPrj7.pdb
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\obj\Debug\net8.0\TestPrj7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\obj\Debug\net8.0\TestPrj7.AssemblyInfoInputs.cache
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\obj\Debug\net8.0\TestPrj7.AssemblyInfo.cs
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\obj\Debug\net8.0\TestPrj7.csproj.CoreCompileInputs.cache
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\obj\Debug\net8.0\TestPrj7.dll
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\obj\Debug\net8.0\refint\TestPrj7.dll
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\obj\Debug\net8.0\TestPrj7.pdb
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\obj\Debug\net8.0\TestPrj7.genruntimeconfig.cache
+C:\Users\fanyu\OneDrive\桌面\testing\C_sharp\tut2\prj5-3\TestPrj7\obj\Debug\net8.0\ref\TestPrj7.dll
